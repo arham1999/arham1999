@@ -6,16 +6,18 @@ const readme = {
   aboutMe: ["programmer", "software engineer", "musician", "curious about life"],
   loves: ["building web and mobile apps", "blockchain", "singing", "technologies"],
   technologies: {
-    backEnd: ["nodejs", "express", "cors", "helmet", "rest", "saas"],
+    backEnd: ["nodejs", "express", "cors", "helmet", "rest", "saas", "solidity"],
     frontEnd: ["reactjs", "nextjs", "react native"],
     database: ["mongo", "firestore", "sql"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "aws"],
     cms: ["ghost cms"],
-    misc: ["cloundiary api", "chatGPT"],
+    misc: ["cloundiary api", "chatGPT", "smart contracts", "NFTs", "blockchain"],
   },
-  education: {
-    nedUniversityOfEngineeringAndTechnology: "Masters in Software Engineering (ME SE)"
+  qualifications: {
+    nedUniversityOfEngineeringAndTechnology: "Masters in Software Engineering (ME SE)",
+    saylaniMassITTraining: "Certified Web and Mobile App Developer",
+    jawanPakistan: "Certified Blockchain Developer"
   },
   projects: {
     andymation: "https://apps.apple.com/us/app/andymation-flipbooks/id6451327356",
