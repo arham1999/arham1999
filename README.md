@@ -62,9 +62,9 @@ const readme = {
 
 <br />
 
-<p style="text-align:center;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham1999&theme=monokai" alt="arham1999" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arham1999&theme=monokai" alt="arham1999" /></p>
 <br /><br /><br /><br /><br /><br /><br /><br /><br />
-<p style="text-align:center;"><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arham1999&theme=monokai" alt="arham1999" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=arham1999&theme=monokai" alt="arham1999" /></p>
 
 <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h3 align="left">Support:</h3>
