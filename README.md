@@ -32,8 +32,6 @@ const readme = {
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arham1999&label=Profile%20views&color=0e75b6&style=flat" alt="arham1999" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arham1999" alt="arham1999" /></a> </p>
-
 - 🔭 I’m currently working on [Andymation](https://apps.apple.com/us/app/andymation-flipbooks/id6451327356), [Sendmea](https://sendmea.io/) and [CanYou](https://apps.apple.com/dk/app/canyou/id1627695368)
 
 - 🌱 I’m currently learning **Flutter and Blockchain**
