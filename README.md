@@ -46,7 +46,7 @@ const readme = {
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view](https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view)
 
-- ⚡ Fun fact **I am a Melomaniac and love to sing.**
+- ⚡ Fun fact **I am a Melomaniac who loves to sing.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
