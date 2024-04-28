@@ -4,8 +4,8 @@
 ```js
 const readme = {
   pronouns: "he" || "him",
-  aboutMe: ["programmer", "software engineer", "musician", "curious about life"],
-  loves: ["building web and mobile apps", "blockchain", "singing", "technologies"],
+  aboutMe: ["programmer", "software engineer", "curious about life"],
+  loves: ["building web and mobile apps", "blockchain", "technologies"],
   technologies: {
     backEnd: ["nodejs", "express", "cors", "helmet", "rest", "saas", "solidity"],
     frontEnd: ["reactjs", "nextjs", "react native"],
