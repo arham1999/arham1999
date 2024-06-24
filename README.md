@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arham Awan</h1>
-<h3 align="center">React | React Native | Node | Express | MongoDB | Firebase | MERN Stack Developer | Software Engineer</h3>
+<h3 align="center">React | React Native | Flutter | Node | Express | MongoDB | Firebase | MERN Stack Developer | Software Engineer</h3>
 
 ```js
 const readme = {
@@ -8,7 +8,7 @@ const readme = {
   loves: ["building web and mobile apps", "blockchain", "technologies"],
   technologies: {
     backEnd: ["nodejs", "express", "cors", "helmet", "rest", "saas", "solidity"],
-    frontEnd: ["reactjs", "nextjs", "react native"],
+    frontEnd: ["reactjs", "nextjs", "react native", "flutter"],
     database: ["mongo", "firestore", "sql"],
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "aws"],
@@ -18,7 +18,7 @@ const readme = {
   qualifications: {
     nedUniversityOfEngineeringAndTechnology: "Masters in Software Engineering (ME SE)",
     saylaniMassITTraining: "Certified Web and Mobile App Developer",
-    jawanPakistan: "Certified Blockchain Developer"
+    jawanPakistan: "Certified Flutter Developer"
   },
   projects: {
     andymation: "https://apps.apple.com/us/app/andymation-flipbooks/id6451327356",
@@ -34,7 +34,7 @@ const readme = {
 
 - 🔭 I’m currently working on [Andymation](https://apps.apple.com/us/app/andymation-flipbooks/id6451327356), [Sendmea](https://sendmea.io/) and [CanYou](https://apps.apple.com/dk/app/canyou/id1627695368)
 
-- 🌱 I’m currently learning **Flutter and Blockchain**
+- 🌱 I’m currently learning **Blockchain**
 
 - 👨‍💻 All of my projects are available at [https://arham-awan.web.app/](https://arham-awan.web.app/)
 
