@@ -69,3 +69,28 @@ const readme = {
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arhamawan91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arhamawan91" /></a><a href="https://ko-fi.com/arhamawan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arhamawan" /></a></p><br><br> -->
+
+<div itemscope itemtype='http://schema.org/Person' class='fiverr-seller-widget' style='display: inline-block;'>
+     <a itemprop='url' href=https://www.fiverr.com/arhamawan rel="nofollow" target="_blank" style='display: inline-block;'>
+        <div class='fiverr-seller-content' id='fiverr-seller-widget-content-f497e9f7-7f5c-4f27-af57-d8c7aa0a2682' itemprop='contentURL' style='display: none;'></div>
+        <div id='fiverr-widget-seller-data' style='display: none;'>
+            <div itemprop='name' >arhamawan</div>
+            <div itemscope itemtype='http://schema.org/Organization'><span itemprop='name'>Fiverr</span></div>
+            <div itemprop='jobtitle'>Seller</div>
+            <div itemprop='description'>I’m a full-stack developer with 7+ years of experience, passionate about turning ideas into sleek, high-performance applications—whether web, mobile, or AI-powered. Every project is an opportunity to innovate and grow! 🚀
+
+💡 JavaScript enthusiast who enjoys solving complex problems and pushing the limits of what’s possible.
+
+🎓 Masters in Software Engineering
+
+Tech Stack:
+🔹 Frontend: React, Next.js, React Native, Flutter, TypeScript, PWAs
+🔹 Backend: Node.js, Express.js, MongoDB, SQL, Prisma, Firebase
+🔹 Cloud: AWS (EC2, S3, Lambda)
+
+🚀 Let’s build something amazing together! 👨🏻‍💻</div>
+        </div>
+    </a>
+</div>
+
+<script id='fiverr-seller-widget-script-f497e9f7-7f5c-4f27-af57-d8c7aa0a2682' src='https://widgets.fiverr.com/api/v1/seller/arhamawan?widget_id=f497e9f7-7f5c-4f27-af57-d8c7aa0a2682' data-config='{"category_name":"Programming \u0026 Tech"}' async='true' defer='true'></script>
