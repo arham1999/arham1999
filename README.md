@@ -69,7 +69,3 @@ const readme = {
 <!-- <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/arhamawan91"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="arhamawan91" /></a><a href="https://ko-fi.com/arhamawan"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="arhamawan" /></a></p><br><br> -->
-
-## 📌 Hire Me on Fiverr  
-[![Fiverr](https://upload.wikimedia.org/wikipedia/commons/3/37/Fiverr_logo.svg)](https://www.fiverr.com/arhamawan)
-
