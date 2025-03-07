@@ -46,7 +46,7 @@ const readme = {
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view](https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view)
 
-- ⚡ Fun fact **I am a Melomaniac who loves to sing**
+- ⚡ Fun fact **A man with two passions — code and music. 🎶 Just like a great song, I believe great software should be smooth, engaging, and unforgettable. Whether I’m building apps or jamming to my favorite tunes, I’m always in sync with creativity! 🚀**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
