@@ -39,7 +39,8 @@ const readme = {
     canyou: "https://apps.apple.com/us/app/canyou/id1627695368",
     nodis: "https://apps.apple.com/ca/app/nodis/id1520418106",
     jebby: "https://apps.apple.com/us/app/jebby/id6469835111"
-  }
+  },
+  challenge: "Pioneering AI-first development approaches to transform how we build and scale modern applications!"
 }
 ```
 
