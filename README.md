@@ -46,10 +46,10 @@ A full-stack developer passionate about bringing ideas to life and building web 
  ### Connect with me:
  
 <p align="left">
-<a href="https://linkedin.com/in/arhamawan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhamawan99" height="30" width="40" /></a>
-<a href="https://fb.com/arham.a.awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arham.a.awan" height="30" width="40" /></a>
-<a href="https://www.upwork.com/freelancers/~01155b81cb3c60b73f" target="blank"><img align="center" src="https://www.citypng.com/public/uploads/preview/upwork-square-black-white-logo-icon-png-701751694968612wdap63xnsv.png" alt="arhamawan" height="30" width="40" /></a>
-<a href="https://fiverr.com/arhamawan" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="arhamawan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arhamawan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arhamawan99" height="40" width="40" /></a>
+<a href="https://fb.com/arham.a.awan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arham.a.awan" height="40" width="40" /></a>
+<a href="https://www.upwork.com/freelancers/~01155b81cb3c60b73f" target="blank"><img align="center" src="https://play-lh.googleusercontent.com/m-J5Y9GN4bcdVcTxgSCeo-y3zCMEAt3OWbpGwpWBj3U5vEpEcUbq760co8ygqZnCxsM" alt="arhamawan" height="40" width="40" /></a>
+<a href="https://fiverr.com/arhamawan" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1656738600fiverr-app-logo.png" alt="arhamawan" height="40" width="40" /></a>
 <!-- <a href="https://medium.com/@arhamawan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arhamawan99" height="30" width="40" /></a> -->
 </p>
 
