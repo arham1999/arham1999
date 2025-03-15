@@ -31,7 +31,7 @@ const readme = {
 }
 ```
 
-<h3>A full-stack developer passionate about bringing ideas to life and building web and mobile applications that solve real-world problems and make a positive impact. I strive to serve humanity through technology, focusing on quality, clean code, and continuous learning to drive innovation 🚀.</h3>
+#### A full-stack developer passionate about bringing ideas to life and building web and mobile applications that solve real-world problems and make a positive impact. I strive to serve humanity through technology, focusing on quality, clean code, and continuous learning to drive innovation 🚀.
 
 - 🔭 I believe every day is an opportunity to learn—growth never stops!
 
