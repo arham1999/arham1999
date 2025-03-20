@@ -24,7 +24,7 @@ const readme = {
     deployment: ["google cloud platform", "firebase", "netlify", "heroku"],
     serverless: ["cloud functions", "firebase", "netlify functions", "aws"],
     cms: ["ghost cms"],
-    misc: ["cloundiary api", "chatGPT", "smart contracts", "NFTs", "blockchain"],
+    misc: ["cloundiary api", "openAI", "smart contracts", "NFTs", "blockchain"],
   },
   qualifications: {
     nedUniversityOfEngineeringAndTechnology: "Master's in Software Engineering (ME SE)",
