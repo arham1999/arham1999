@@ -8,7 +8,7 @@ A full-stack developer passionate about bringing ideas to life and building web 
 
 - 📫 How to reach me **arhamawan99@gmail.com**
 
-- 📄 Know about my recent experiences [https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view](https://drive.google.com/file/d/1MQ9XNn1sJ6t2nB0eubQtbJUsXkJbg6AH/view)
+- 📄 Know about my recent experiences [My CV](https://drive.google.com/file/d/1v2q_zbu7oUrrHRR5QU8EUuCK-ujnbTSx/view?usp=sharing)
 
 - ⚡ Fun fact **I am a man with two passions — code 👨‍💻 and music 🎶.**
 
