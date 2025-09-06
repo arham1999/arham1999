@@ -33,9 +33,10 @@ const readme = {
     jpEducationProgram: "Certified Flutter Developer"
   },
   notableProjects: {
+    easyGPT: "https://app.easygpt.builders",
     andymation: "https://apps.apple.com/us/app/andymation-flipbooks/id6451327356",
     sendmea: "https://sendmea.io",
-    screenIndie: "https://screenindie.com/",
+    screenIndie: "https://screenindie.com",
     canyou: "https://apps.apple.com/us/app/canyou/id1627695368",
     nodis: "https://apps.apple.com/ca/app/nodis/id1520418106",
     jebby: "https://apps.apple.com/us/app/jebby/id6469835111"
