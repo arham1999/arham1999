@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arham Awan</h1>
 
-A full-stack developer passionate about bringing ideas to life and building web and mobile applications that solve real-world problems and make a positive impact. I strive to serve humanity through technology, focusing on quality, clean code, and continuous learning to drive innovation 🚀.
+A Full Stack Developer passionate about bringing ideas to life and building web and mobile applications that solve real-world problems and make a positive impact. I strive to serve humanity through technology, focusing on quality, clean code, and continuous learning to drive innovation 🚀.
 
 - 🔭 I believe every day is an opportunity to learn, growth never stops!
 
