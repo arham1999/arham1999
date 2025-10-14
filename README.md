@@ -10,7 +10,7 @@ A Full Stack Developer passionate about bringing ideas to life and building web 
 
 - 📄 Know about my recent experiences [My CV](https://drive.google.com/file/d/1v2q_zbu7oUrrHRR5QU8EUuCK-ujnbTSx/view?usp=sharing)
 
-- ⚡ Fun fact **I am a man with two passions — code 👨‍💻 and music 🎶.**
+- ⚡ Fun fact **Nothing excites me more than a tricky bug. Just me, my coffee, and the thrill of cracking it ☕️😎**
 
 ```js
 const readme = {
