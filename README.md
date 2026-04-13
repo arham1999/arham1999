@@ -52,7 +52,7 @@ const readme = {
 
 <p align="center">
   <img
-    src="https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111902_mbp14-silver2.png"
+    src="./assets/MacOS2.gif"
     alt="MacBook Pro 14-inch (2021)"
     width="360"
   />
